@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/baeteromain/baeteromain/main/wave.svg" alt="Waves" width="100%">
+
+
 <h2 align="center">Hi 👋! My name is Romain..</h2>
 
 ###
@@ -48,3 +51,5 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/baeteromain/baeteromain/main/wave2.svg" alt="Waves2" width="100%">
